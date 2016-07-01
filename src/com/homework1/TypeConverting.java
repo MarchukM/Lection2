@@ -1,4 +1,4 @@
-package com.homeworks;
+package com.homework1;
 
 /**
  * Created by maxim on 28.06.2016.
